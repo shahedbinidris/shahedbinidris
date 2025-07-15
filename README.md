@@ -12,9 +12,8 @@
 - JavaScript (Coming soon!)
 
 ## 📫 Connect with me
-- 📍 Location: Dhaka, Bangladesh 🇧🇩
-- ✉️ Email: your@email.com
-- 🌐 Website: [YourPortfolioLink](https://your-portfolio.com)
+- 📍 Location: Chottogram, Bangladesh 🇧🇩
+- ✉️ Email: shahedbinidris@gmail.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahedbinidris&show_icons=true&theme=radical)
 
